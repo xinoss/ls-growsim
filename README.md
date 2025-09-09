@@ -4,18 +4,19 @@
 A web-based tool for simulating character and equipment setups in ***KLS** Lost Saga*.
 
 ---
+## 🎬 Demo Video 
+
+- **Click the image below to see the features in action on YouTube**
+
+[![Watch the video](./assets/screenshot.png)](https://www.youtube.com/watch?v=kowQr0Dwzh8)
+
+---
 
 ## ✨ Features
 - **Hero & Equipment Simulation**: Test various character and gear combinations in real time.  
 - **Cooldown & Stats Analysis**: Dynamically calculate cooldowns, stats, and performance.  
 - **Visualization Tools**: Cooldown tables and stat charts for easier comparison.  
 - **Utility Functions**: save/load system, and replay options for repeated testing.  
-
-## 🎬 Demo Video 
-
-- **Click the image below to see the features in action on YouTube**
-
-[![Watch the video](./assets/screenshot.png)](https://www.youtube.com/watch?v=kowQr0Dwzh8)
 
 ---
 
