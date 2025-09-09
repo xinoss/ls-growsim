@@ -48,8 +48,11 @@ ls-growism/
 │  ├─ package.json
 │  └─ ...
 │
+├─ database/               # Database (MongoDB Jsons)
+│  ├─ users.json           # users json
+│  ├─ equipments.json      # equipments json
+│
 ├─ .env.example            # Environment variable template
-├─ setupDB.js              # MongoDB template
 └─ README.md
 ```
 
