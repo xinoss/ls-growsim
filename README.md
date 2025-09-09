@@ -2,18 +2,6 @@
 
 **Lost Saga Training Simulation**  
 A web-based tool for simulating character and equipment setups in ***KLS** Lost Saga*.
-
----
-
-
-## 🎬 Demo Video 
-
-- **Click the image to watch on YouTube.**
-
-
-[![Watch the video](./assets/screenshot.png)](https://www.youtube.com/watch?v=kowQr0Dwzh8)
-
-
 ---
 
 ## ✨ Features
@@ -22,6 +10,11 @@ A web-based tool for simulating character and equipment setups in ***KLS** Lost 
 - **Visualization Tools**: Cooldown tables and stat charts for easier comparison.  
 - **Utility Functions**: save/load system, and replay options for repeated testing.  
 
+## 🎬 Demo Video 
+
+- **Click the image to watch on YouTube.**
+
+[![Watch the video](./assets/screenshot.png)](https://www.youtube.com/watch?v=kowQr0Dwzh8)
 ---
 
 ## 🛠 Tech Stack
