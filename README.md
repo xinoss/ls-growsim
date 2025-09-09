@@ -97,6 +97,7 @@ cp .env.example .env
 - **Initial Password:** 1234
 
 ```bash
+cd database
 mongoimport --uri "your_mongodb_uri" --db ls-growism --collection users --file users.json --jsonArray
 mongoimport --uri "your_mongodb_uri" --db ls-growism --collection equipments --file equipments.json --jsonArray
 ```
