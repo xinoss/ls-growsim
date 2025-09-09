@@ -41,7 +41,7 @@ exports.logout = (req, res) => {
 };
 
 exports.register = async (req, res) => {
-  const { username } = req.body;
+  const { username, password } = req.body;
 
   if (req.user.role !== 'admin') return res.status(403).json({ message: 'Have not Permssion' });
   
@@ -49,7 +49,7 @@ exports.register = async (req, res) => {
     const existing = await User.findOne({ username });
     if (existing) return res.status(400).json({ message: 'Admin already exists' });
 
-    const hashed = await bcrypt.hash('1234', 10);
+    const hashed = await bcrypt.hash(password, 10);
     const user = new User({ username, password: hashed });
     await user.save();
 
