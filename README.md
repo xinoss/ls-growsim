@@ -1,4 +1,4 @@
-# ls-growsim
+# 🎮 ls-growsim
 
 **Lost Saga Training Simulation**  
 A web-based tool for simulating character and equipment setups in ***KLS** Lost Saga*.
