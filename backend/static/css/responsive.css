@@ -1,0 +1,33 @@
+/* 반응형 처리 */
+@media (max-width: 768px) {
+  .nav-container {
+    padding: 0 10px;
+  }
+
+  .nav-links a {
+    padding: 0 12px;
+    font-size: 0.9rem;
+  }
+
+  .logo {
+    font-size: 1.2rem;
+  }
+
+  .logo img {
+    height: 30px;
+    margin-right: 8px;
+  }
+
+  .footer-container {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+
+  .footer-section {
+    text-align: center;
+  }
+
+  .footer-social {
+    justify-content: center;
+  }
+}

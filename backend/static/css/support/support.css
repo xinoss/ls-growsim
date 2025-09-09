@@ -1,0 +1,13 @@
+.support-page .window {
+  width: 1000px;
+}
+
+.support-page .window-content p {
+  font-size: 20px;
+}
+
+.question {
+  border-top: 1px solid #ccc;
+  padding: 10px 0;
+  margin-top: 10px;
+}

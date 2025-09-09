@@ -1,0 +1,29 @@
+.community-page .window {
+  width: 1000px;
+}
+
+.community-page .window .social-icon {
+  color: #000;
+  font-size: 100px;
+  transition: transform 0.3s, color 0.3s;
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.community-page .window .social-icon:hover {
+  color: #4a90e2;
+}
+
+.community-page .notice {
+    max-width: 1000px;   
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15%;
+}
+
+.community-page .notice h2 {
+    margin-top: 20px;
+}

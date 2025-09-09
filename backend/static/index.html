@@ -1,0 +1,280 @@
+<!-- grow.html -->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" type="image/png" href="/static/img/icons/favicon.png">
+  <link rel="stylesheet" href="/static/css/base.css">
+  <link rel="stylesheet" href="/static/css/layout.css">
+  <link rel="stylesheet" href="/static/css/components.css">
+  <link rel="stylesheet" href="/static/css/responsive.css">
+  <link rel="stylesheet" href="/static/css/dialog.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+  <title>로스트사가 육성 시뮬레이션</title>
+</head>
+<body class="index-page">
+  <header>
+    <nav class="navbar">
+      <div class="nav-container">
+        <a href="/" class="logo">
+          <img src="/static/img/icons/logo.png" alt="logo">
+          <span>비용 부족 문제로 이번 달까지만 운영합니다.</span>
+        </a>
+        <ul class="nav-links">
+          <li><a href="/" class="active">메인</a></li>
+          <li><a href="guide">가이드</a></li>
+          <li><a href="community">커뮤니티</a></li>
+          <li><a href="support">고객센터</a></li>
+        </ul>
+      </div>
+    </nav>
+  </header>
+  <div class="main-content">
+    <div class="window-container">
+      <div class="window">
+        <div class="window-title">
+          육성 비용 시뮬레이션
+          <button class="reset-btn" id="resetCharacterBtn">리셋</button>
+        </div>
+        <div class="window-content">
+          <div class="char-info">
+            <img src="/static/img/character/developerK.png" class="img" alt="character">
+            <div>
+              <h2>Lv100 개발자K</h2>
+              <p>남은 육성 포인트: <strong class="red-text" id="points">200</strong></p>
+              <p>누적 소비 포인트: <strong class="red-text" id="usedPoints">0</strong></p>
+              <p>누적 육성 비용: <strong class="red-text" id="totalCost">0</strong> 페소</p>
+            </div>
+          </div>
+
+          <!-- 스탯 블록들 -->
+          <div class="stat">
+            <div class="stat-name">무기스킬</div>
+            <div class="progress-bar-container">
+              <div class="progress-bar-fill" id="progress-weapon"></div>
+            </div>
+            <div class="stat-controls">
+              <button class="btn-minus" data-stat="weapon" data-delta="-1">-</button>
+              <span class="stat-value" id="weapon">0</span>
+              <button class="btn-plus" data-stat="weapon" data-delta="1">+</button>
+            </div>
+          </div>
+
+          <div class="stat">
+            <div class="stat-name">갑옷스킬</div>
+            <div class="progress-bar-container">
+              <div class="progress-bar-fill" id="progress-armor"></div>
+            </div>
+            <div class="stat-controls">
+              <button class="btn-minus" data-stat="armor" data-delta="-1">-</button>
+              <span class="stat-value" id="armor">0</span>
+              <button class="btn-plus" data-stat="armor" data-delta="1">+</button>
+            </div>
+          </div>
+
+          <div class="stat">
+            <div class="stat-name">투구스킬</div>
+            <div class="progress-bar-container">
+              <div class="progress-bar-fill" id="progress-helmet"></div>
+            </div>
+            <div class="stat-controls">
+              <button class="btn-minus" data-stat="helmet" data-delta="-1">-</button>
+              <span class="stat-value" id="helmet">0</span>
+              <button class="btn-plus" data-stat="helmet" data-delta="1">+</button>
+            </div>
+          </div>
+
+          <div class="stat">
+            <div class="stat-name">망토스킬</div>
+            <div class="progress-bar-container">
+              <div class="progress-bar-fill" id="progress-cloak"></div>
+            </div>
+            <div class="stat-controls">
+              <button class="btn-minus" data-stat="cloak" data-delta="-1">-</button>
+              <span class="stat-value" id="cloak">0</span>
+              <button class="btn-plus" data-stat="cloak" data-delta="1">+</button>
+            </div>
+          </div>
+
+          <div class="stat">
+            <div class="stat-name">공격력</div>
+            <div class="progress-bar-container">
+              <div class="progress-bar-fill" id="progress-attack"></div>
+            </div>
+            <div class="stat-controls">
+              <button class="btn-minus" data-stat="attack" data-delta="-1">-</button>
+              <span class="stat-value" id="attack">0</span>
+              <button class="btn-plus" data-stat="attack" data-delta="1">+</button>
+            </div>
+          </div>
+
+          <div class="stat">
+            <div class="stat-name">방어력</div>
+            <div class="progress-bar-container">
+              <div class="progress-bar-fill" id="progress-defense"></div>
+            </div>
+            <div class="stat-controls">
+              <button class="btn-minus" data-stat="defense" data-delta="-1">-</button>
+              <span class="stat-value" id="defense">0</span>
+              <button class="btn-plus" data-stat="defense" data-delta="1">+</button>
+            </div>
+          </div>
+
+          <div class="stat">
+            <div class="stat-name">이동속도</div>
+            <div class="progress-bar-container">
+              <div class="progress-bar-fill" id="progress-speed"></div>
+            </div>
+            <div class="stat-controls">
+              <button class="btn-minus" data-stat="speed" data-delta="-1">-</button>
+              <span class="stat-value" id="speed">0</span>
+              <button class="btn-plus" data-stat="speed" data-delta="1">+</button>
+            </div>
+          </div>
+
+          <div class="stat">
+            <div class="stat-name">드랍피해</div>
+            <div class="progress-bar-container">
+              <div class="progress-bar-fill" id="progress-drop"></div>
+            </div>
+            <div class="stat-controls">
+              <button class="btn-minus" data-stat="drop" data-delta="-1">-</button>
+              <span class="stat-value" id="drop">0</span>
+              <button class="btn-plus" data-stat="drop" data-delta="1">+</button>
+            </div>
+          </div>
+          <button class="btn-confirm" id="openDialog1Btn">육성하기</button>
+        </div>   
+      </div>
+
+      <div class="window">
+        <div class="window-title">
+          장비 육성 시뮬레이션
+          <button class="reset-btn" id="resetEquipmentBtn">리셋</button>
+        </div>
+        <div class="window-content">
+          <div class="char-info">
+            <img src="/static/img/equipment/unknown.png" class="img" alt="equipment" id="equipmentImage" onerror="this.onerror=null;this.src='/static/img/equipment/unknown.png';">
+            <div>
+              <h2 id="equipmentSelect">장비를 선택하세요.</h2>
+              <p>&nbsp;</p>
+              <p>장비 등급: <strong class="equipmentType" id="equipmentType">없음</strong></p>
+              <p>&nbsp;</p>
+            </div>
+          </div>
+          <select class="categorySelect" id="categorySelect">
+              <option value="">장비 부위</option>
+              <option value="무기">무기</option>
+              <option value="갑옷">갑옷</option>
+              <option value="투구">투구</option>
+              <option value="망토">망토</option>
+          </select>
+      
+          <select class="itemSelect" id="itemSelect">
+              <option value="">장비 이름</option>
+          </select>
+          
+          <input type="number" class="trainLevel" id="trainLevel" placeholder="육성 수치 (예: 100)" min="0" max="300" maxlength="3">
+
+          <div class="notice">
+            <h2>※ 사용 전 안내사항 ※</h2>
+            <p>장비 육성 시뮬레이션은 단순 계산을 통해</p>
+            <p>장비와 육성에 따른 장비의 쿨타임을 계산합니다.</p>
+            <p>장비/육성 차이로 계산에 오차가 발생할 수 있습니다.</p>
+          </div>
+      
+          <button class="calculateBtn" id="calculateBtn">계산하기</button>
+
+        </div>
+      </div>
+    </div>
+    
+    <footer class="site-footer">
+      <div class="footer-container">
+        <div class="footer-section">
+          <h3>로스트사가 육성 시뮬레이터</h3>
+          <p>로스트사가의 다양한 육성 요소를 계산하고<br>시뮬레이션할 수 있는 도구입니다.</p>
+          <div class="footer-social">
+            <a href="/" class="social-icon"><i class="fas fa-home"></i></a>
+            <a href="https://discord.gg/ku9w8qybbC" class="social-icon"><i class="fab fa-discord"></i></a>
+            <a href="https://www.youtube.com/@Growsim" class="social-icon"><i class="fab fa-youtube"></i></a>
+          </div>
+        </div>
+        
+        <div class="footer-section">
+          <h4>메뉴</h4>
+          <ul class="footer-links">
+            <li><a href="/">메인</a></li>
+            <li><a href="guide">가이드</a></li>
+            <li><a href="community">커뮤니티</a></li>
+            <li><a href="support">고객센터</a></li>
+          </ul>
+        </div>
+        
+        <div class="footer-section">
+          <h4>리소스</h4>
+          <ul class="footer-links">
+            <li><a href="https://lostsaga-ko.valofe.com/main/main.asp">공식 홈페이지</a></li>
+            <li><a href="community">업데이트 내역</a></li>
+          </ul>
+        </div>
+        
+        <div class="footer-section">
+          <h4>법적 정보</h4>
+          <ul class="footer-links">
+            <li><a href="terms">이용 약관</a></li>
+            <li><a href="community">문의하기</a></li>
+          </ul>
+        </div>
+      </div>
+      
+      <div class="footer-bottom">
+        <p>&copy; 2025 로스트사가 육성 시뮬레이션. 모든 권리 보유.</p>
+        <p>이 사이트는 팬 메이드 프로젝트이며 VALOFE와 공식적인 관련이 없습니다.</p>
+        <p><small><a href="https://lostsaga-ko.valofe.com/myhomepy/?1356c9ce8db9aa">제작자: nxor</a></small></p>
+      </div>
+    </footer>
+  </div>
+
+    <dialog id="dialog1">
+      <div class="window">
+        <div class="window-title">로스트사가 육성 비용 시뮬레이션</div>
+          <div class="window-content">
+            <p class="dialogContent" id="dialog1Content"></p>
+            <div class="dialog-btn">
+              <button id="closeDialog1Btn">확인</button>
+            </div>
+          </div>
+      </div>
+    </dialog> 
+
+    <dialog id="dialog2">
+      <div class="window">
+        <div class="window-title">로스트사가 장비 육성 시뮬레이션</div>
+          <div class="window-content">
+            <p class="dialogContent" id="dialog2Content"></p>
+            <div class="dialog-btn">
+              <button id="closeDialog2Btn">확인</button>
+            </div>
+          </div>
+      </div>
+    </dialog>
+
+    <dialog id="dialog3">
+      <div class="window">
+        <div class="window-title">시뮬레이션 오류</div>
+          <div class="window-content">
+            <p class="dialogError" id="dialog3Content"></p>
+            <div class="dialog-btn">
+              <button id="closeDialog3Btn">확인</button>
+            </div>
+          </div>
+      </div>
+    </dialog>
+
+    <script type="module" src="/static/js/main.js"></script>
+
+  </body>
+
+</html>

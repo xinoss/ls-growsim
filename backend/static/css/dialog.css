@@ -1,0 +1,73 @@
+/* dialog 기본 스타일 */
+  dialog {
+    border: none;
+    border-color: #1d4e89;
+    padding: 0px;
+    border-radius: 8px;
+    background-color: #1d4e89;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 425px;
+    text-align: left; /* 전체 내용 가운데 정렬 */
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1000;
+    box-sizing: border-box;
+    margin: 0;
+    max-height: 230px;
+    overflow: hidden;
+    border-bottom: 3px solid #1d4e89;
+    
+  }
+
+  /* dialog 열린 상태 */
+  dialog[open] {
+    display: block; /* flex에서 block으로 변경 */
+  }
+
+  /* dialog 안의 텍스트 스타일 */
+  dialog p {
+    margin-bottom: 20px;
+    font-size: 16px;
+  }
+
+  /* dialog 내부 버튼 스타일 */
+  dialog button {
+    padding: 10px 20px;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+    background-color: #4caf50;
+    color: white;
+    border-radius: 8px;
+    border: none;
+    text-align: center;
+    width: 250px;
+    height: 50px;
+    margin-top: 20px;
+  }
+
+  /* 버튼 호버 상태 */
+  dialog button:hover {
+    background-color: #45a049;
+  }
+
+  /* 버튼이 화면 가운데에 위치하도록 추가 스타일 */
+  .dialog-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+  }
+
+  .dialogContent {
+    white-space: nowrap;
+    width: 50%; /* 너비 조정 가능 */
+    margin: 0 auto; /* 가운데 정렬 유지 */
+  }
+
+  .dialogError {
+    text-align: center;
+  }

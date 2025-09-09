@@ -1,0 +1,51 @@
+.error-page .window {
+  width: 1000px;
+}
+
+.error-page .developerK {
+  height: 500px;
+  margin-right: 12px;
+}
+.error-page .window-content {
+  display: flex;
+  gap: 45px;     
+}
+
+.error-page .notice {
+  flex: 1;
+  font-size: 20px;
+  line-height: 1.6;
+  white-space: normal; /* 기본값이지만 명시 */
+  width: 100%;
+  max-width: 550px;
+}
+
+.error-page .notice h2 {
+  white-space: nowrap;     /* 한 줄로 강제 출력 */
+  overflow: hidden;        /* 넘치면 잘림 (선택사항) */
+  text-overflow: ellipsis; /* 생략 부호 (선택사항) */
+  font-size: 20px;
+  color: #000;
+  margin-bottom: 50px;
+}
+
+.error-page .notice p {
+  font-size: 20px;
+  color: #000;
+  margin-bottom: 10px;
+}
+
+.notice .button-wrapper {
+  margin-top: auto;
+  align-self: flex-end;
+  margin-right: 20px; /* 오른쪽으로 보내기 */
+}
+
+.gate-button img {
+  transition: transform 0.2s;
+  cursor: pointer;
+}
+.gate-button img:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 10px rgba(0, 128, 255, 0.5);
+}
