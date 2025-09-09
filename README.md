@@ -93,7 +93,9 @@ cp .env.example .env
 
 ### 4. Setup MongoDB 
 ```bash
-node setupDB.js
+cd database
+mongoimport --uri "your_mongodb_uri" --db ls-growism --collection equipments --file equipments.json --jsonArray
+mongoimport --uri "your_mongodb_uri" --db ls-growism --collection users --file users.json --jsonArray
 ```
 
 ### 5. Run the app
