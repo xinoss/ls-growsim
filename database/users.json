@@ -1,0 +1,13 @@
+[{
+  "username": "admin",
+  "password": "$2b$10$HHfzxYV0T0hwxL8F5NbCsujCjdVfS2G0ufW366m5NS.8HeXTZfdpy",
+  "role": "manager",
+  "permission": false,
+  "createdAt": {
+    "$date": "2025-09-09T08:38:57.218Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-09T08:38:57.218Z"
+  },
+  "__v": 0
+}]

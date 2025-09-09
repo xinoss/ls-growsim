@@ -92,12 +92,8 @@ cp .env.example .env
 ```
 
 ### 4. Setup MongoDB 
-- **Initial ID:** admin  
-- **Initial Password:** 1234
 ```bash
-cd database
-mongoimport --uri "your_mongodb_uri" --db ls-growism --collection users --file users.json --jsonArray
-mongoimport --uri "your_mongodb_uri" --db ls-growism --collection equipments --file equipments.json --jsonArray
+node setupDB.js
 ```
 
 ### 5. Run the app

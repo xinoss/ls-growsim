@@ -1,0 +1,2642 @@
+[
+  {
+    "_id": "6822c3996c8ed9193595cd67",
+    "name": "강림도령 붓",
+    "number": 1,
+    "type": "레어",
+    "category": "무기",
+    "cooldown": 28.309,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cd68",
+    "name": "나이트메어 큐브",
+    "number": 2,
+    "type": "일반",
+    "category": "무기",
+    "cooldown": 23.878,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cd69",
+    "name": "라이트닝 지팡이",
+    "number": 3,
+    "type": "일반",
+    "category": "무기",
+    "cooldown": 19.067,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cd6a",
+    "name": "리의 무기",
+    "number": 4,
+    "type": "레어",
+    "category": "무기",
+    "cooldown": 25.613,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cd6b",
+    "name": "마그네틱 스피어",
+    "number": 5,
+    "type": "레어",
+    "category": "무기",
+    "cooldown": 28.309,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cd6c",
+    "name": "마피아 쌍권총",
+    "number": 6,
+    "type": "일반",
+    "category": "무기",
+    "cooldown": 9.828,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cd6d",
+    "name": "무림고수 무기",
+    "number": 7,
+    "type": "레어",
+    "category": "무기",
+    "cooldown": 19.71,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cd6e",
+    "name": "미드나잇 무기",
+    "number": 8,
+    "type": "유니크",
+    "category": "무기",
+    "cooldown": 26.56,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cd6f",
+    "name": "방탄소년단 무기",
+    "number": 9,
+    "type": "프리미엄",
+    "category": "무기",
+    "cooldown": 21.164,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cd70",
+    "name": "빅토리 실드",
+    "number": 10,
+    "type": "일반",
+    "category": "무기",
+    "cooldown": 16.388,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cd71",
+    "name": "빨간망토 바구니",
+    "number": 11,
+    "type": "일반",
+    "category": "무기",
+    "cooldown": 27.273,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cd72",
+    "name": "사신무진 무기",
+    "number": 12,
+    "type": "유니크",
+    "category": "무기",
+    "cooldown": 29.278,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cd73",
+    "name": "사이즈 스위치",
+    "number": 13,
+    "type": "레어",
+    "category": "무기",
+    "cooldown": 22.916,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cd74",
+    "name": "서퍼 칵테일",
+    "number": 14,
+    "type": "레어",
+    "category": "무기",
+    "cooldown": 32.983,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cd75",
+    "name": "쉐도우레인저 무기",
+    "number": 15,
+    "type": "일반",
+    "category": "무기",
+    "cooldown": 23.878,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cd76",
+    "name": "스트라이더 무기",
+    "number": 16,
+    "type": "유니크",
+    "category": "무기",
+    "cooldown": 30.958,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cd77",
+    "name": "아이스메이지 지팡이",
+    "number": 17,
+    "type": "일반",
+    "category": "무기",
+    "cooldown": 16.388,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cd78",
+    "name": "암흑 지팡이",
+    "number": 18,
+    "type": "일반",
+    "category": "무기",
+    "cooldown": 26.56,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cd79",
+    "name": "얼음신 결정체",
+    "number": 19,
+    "type": "레어",
+    "category": "무기",
+    "cooldown": 26.56,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cd7a",
+    "name": "엑자일 무기",
+    "number": 20,
+    "type": "유니크",
+    "category": "무기",
+    "cooldown": 22.412,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cd7b",
+    "name": "연금술사의 책",
+    "number": 21,
+    "type": "레어",
+    "category": "무기",
+    "cooldown": 25.613,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cd7c",
+    "name": "오딘 감반테인",
+    "number": 22,
+    "type": "레어",
+    "category": "무기",
+    "cooldown": 18.837,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cd7d",
+    "name": "오멘 무기",
+    "number": 23,
+    "type": "유니크",
+    "category": "무기",
+    "cooldown": 29.506,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cd7e",
+    "name": "유령 단검",
+    "number": 24,
+    "type": "레어",
+    "category": "무기",
+    "cooldown": 23.878,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cd7f",
+    "name": "음양사 시키가미",
+    "number": 25,
+    "type": "레어",
+    "category": "무기",
+    "cooldown": 32.025,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cd80",
+    "name": "전투공병 서브머신건",
+    "number": 26,
+    "type": "레어",
+    "category": "무기",
+    "cooldown": 28.785,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cd81",
+    "name": "제갈량 백우선",
+    "number": 27,
+    "type": "레어",
+    "category": "무기",
+    "cooldown": 25.602,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cd82",
+    "name": "제우스 번개",
+    "number": 28,
+    "type": "레어",
+    "category": "무기",
+    "cooldown": 26.56,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cd83",
+    "name": "증오의 메피스토 무기",
+    "number": 29,
+    "type": "유니크",
+    "category": "무기",
+    "cooldown": 23.878,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cd84",
+    "name": "카게닌자 단검",
+    "number": 30,
+    "type": "일반",
+    "category": "무기",
+    "cooldown": 16.388,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cd85",
+    "name": "카포에라 장갑",
+    "number": 31,
+    "type": "일반",
+    "category": "무기",
+    "cooldown": 22.916,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cd86",
+    "name": "태을진인 무기",
+    "number": 32,
+    "type": "유니크",
+    "category": "무기",
+    "cooldown": 29.278,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cd87",
+    "name": "트레이스 김윤성 장갑",
+    "number": 33,
+    "type": "프리미엄",
+    "category": "무기",
+    "cooldown": 27.847,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cd88",
+    "name": "티르 무기",
+    "number": 34,
+    "type": "유니크",
+    "category": "무기",
+    "cooldown": 25.613,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cd89",
+    "name": "티메가테 소드",
+    "number": 35,
+    "type": "일반",
+    "category": "무기",
+    "cooldown": 25.329,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cd8a",
+    "name": "파이어 지팡이",
+    "number": 36,
+    "type": "일반",
+    "category": "무기",
+    "cooldown": 19.067,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cd8b",
+    "name": "파파라치 카메라",
+    "number": 37,
+    "type": "일반",
+    "category": "무기",
+    "cooldown": 24.393,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cd8c",
+    "name": "펜리르 발톱",
+    "number": 38,
+    "type": "레어",
+    "category": "무기",
+    "cooldown": 23.878,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cd8d",
+    "name": "프라이슈츠 무기",
+    "number": 39,
+    "type": "유니크",
+    "category": "무기",
+    "cooldown": 25.613,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cd8e",
+    "name": "한조 무기",
+    "number": 40,
+    "type": "유니크",
+    "category": "무기",
+    "cooldown": 21.875,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cd8f",
+    "name": "헌터 샷건",
+    "number": 41,
+    "type": "일반",
+    "category": "무기",
+    "cooldown": 16.388,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cd90",
+    "name": "헤라클레스 무기",
+    "number": 42,
+    "type": "유니크",
+    "category": "무기",
+    "cooldown": 27.273,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cd91",
+    "name": "결계도승 의상",
+    "number": 1,
+    "type": "레어",
+    "category": "갑옷",
+    "cooldown": 31.005,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cd92",
+    "name": "고스트쉐도우 의상",
+    "number": 2,
+    "type": "레어",
+    "category": "갑옷",
+    "cooldown": 22.916,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cd93",
+    "name": "고위사제 의상",
+    "number": 3,
+    "type": "레어",
+    "category": "갑옷",
+    "cooldown": 37.348,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cd94",
+    "name": "기가슈트 아머",
+    "number": 4,
+    "type": "유니크",
+    "category": "갑옷",
+    "cooldown": 25.613,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cd95",
+    "name": "기계공학자 갑옷",
+    "number": 5,
+    "type": "레어",
+    "category": "갑옷",
+    "cooldown": 22.916,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cd96",
+    "name": "드래곤갑옷",
+    "number": 6,
+    "type": "일반",
+    "category": "갑옷",
+    "cooldown": 22.916,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cd97",
+    "name": "메가에이전트 슈트",
+    "number": 7,
+    "type": "레어",
+    "category": "갑옷",
+    "cooldown": 25.613,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cd98",
+    "name": "삐에로 의상",
+    "number": 8,
+    "type": "레어",
+    "category": "갑옷",
+    "cooldown": 28.309,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cd99",
+    "name": "서큐버스 의상",
+    "number": 9,
+    "type": "레어",
+    "category": "갑옷",
+    "cooldown": 32.983,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cd9a",
+    "name": "쉐도우어쌔신 의상",
+    "number": 10,
+    "type": "일반",
+    "category": "갑옷",
+    "cooldown": 16.388,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cd9b",
+    "name": "스카디 갑옷",
+    "number": 11,
+    "type": "레어",
+    "category": "갑옷",
+    "cooldown": 26.961,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cd9c",
+    "name": "스카하크 갑옷",
+    "number": 12,
+    "type": "레어",
+    "category": "갑옷",
+    "cooldown": 29.278,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cd9d",
+    "name": "스트레인져의 갑옷",
+    "number": 13,
+    "type": "유니크",
+    "category": "갑옷",
+    "cooldown": 28.309,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cd9e",
+    "name": "시간지기 의상",
+    "number": 14,
+    "type": "레어",
+    "category": "갑옷",
+    "cooldown": 32.983,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cd9f",
+    "name": "시즈 의상",
+    "number": 15,
+    "type": "레어",
+    "category": "갑옷",
+    "cooldown": 19.067,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cda0",
+    "name": "신농 의상",
+    "number": 16,
+    "type": "레어",
+    "category": "갑옷",
+    "cooldown": 23.878,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cda1",
+    "name": "아르고스 의상",
+    "number": 17,
+    "type": "레어",
+    "category": "갑옷",
+    "cooldown": 23.063,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cda2",
+    "name": "아이스맨 의상",
+    "number": 18,
+    "type": "레어",
+    "category": "갑옷",
+    "cooldown": 20.757,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cda3",
+    "name": "엘라임의 의상",
+    "number": 19,
+    "type": "레어",
+    "category": "갑옷",
+    "cooldown": 22.366,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cda4",
+    "name": "염제 의상",
+    "number": 20,
+    "type": "레어",
+    "category": "갑옷",
+    "cooldown": 25.613,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cda5",
+    "name": "오멘 의상",
+    "number": 21,
+    "type": "유니크",
+    "category": "갑옷",
+    "cooldown": 22.366,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cda6",
+    "name": "요술사 의상",
+    "number": 22,
+    "type": "레어",
+    "category": "갑옷",
+    "cooldown": 26.56,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cda7",
+    "name": "이브 슈트",
+    "number": 23,
+    "type": "레어",
+    "category": "갑옷",
+    "cooldown": 28.49,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cda8",
+    "name": "이클립스 의상",
+    "number": 24,
+    "type": "레어",
+    "category": "갑옷",
+    "cooldown": 30.958,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cda9",
+    "name": "인형사 의상",
+    "number": 25,
+    "type": "레어",
+    "category": "갑옷",
+    "cooldown": 18.837,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdaa",
+    "name": "임팩트 의상",
+    "number": 26,
+    "type": "레어",
+    "category": "갑옷",
+    "cooldown": 28.309,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdab",
+    "name": "중력술사 의상",
+    "number": 27,
+    "type": "레어",
+    "category": "갑옷",
+    "cooldown": 12.558,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdac",
+    "name": "청룡 의상",
+    "number": 28,
+    "type": "유니크",
+    "category": "갑옷",
+    "cooldown": 32.025,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdad",
+    "name": "초능력 슈트",
+    "number": 29,
+    "type": "레어",
+    "category": "갑옷",
+    "cooldown": 23.393,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdae",
+    "name": "초시공 갑옷",
+    "number": 30,
+    "type": "레어",
+    "category": "갑옷",
+    "cooldown": 22.916,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdaf",
+    "name": "초월자 의상",
+    "number": 31,
+    "type": "레어",
+    "category": "갑옷",
+    "cooldown": 25.602,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdb0",
+    "name": "카르나 갑옷",
+    "number": 32,
+    "type": "유니크",
+    "category": "갑옷",
+    "cooldown": 32.025,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdb1",
+    "name": "크로우의 의상",
+    "number": 33,
+    "type": "일반",
+    "category": "갑옷",
+    "cooldown": 33.71,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdb2",
+    "name": "타락강시도사 의상",
+    "number": 34,
+    "type": "레어",
+    "category": "갑옷",
+    "cooldown": 28.309,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdb3",
+    "name": "티르의 갑옷",
+    "number": 35,
+    "type": "유니크",
+    "category": "갑옷",
+    "cooldown": 25.613,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdb4",
+    "name": "파계 승복",
+    "number": 36,
+    "type": "레어",
+    "category": "갑옷",
+    "cooldown": 24.769,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdb5",
+    "name": "패러사이트 갑옷",
+    "number": 37,
+    "type": "유니크",
+    "category": "갑옷",
+    "cooldown": 25.613,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdb6",
+    "name": "패트리어트 갑옷",
+    "number": 38,
+    "type": "일반",
+    "category": "갑옷",
+    "cooldown": 19.067,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdb7",
+    "name": "퓨리어스 갑옷",
+    "number": 39,
+    "type": "레어",
+    "category": "갑옷",
+    "cooldown": 23.063,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdb8",
+    "name": "헤라클레스 갑옷",
+    "number": 40,
+    "type": "유니크",
+    "category": "갑옷",
+    "cooldown": 20.757,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdb9",
+    "name": "가드너 머리장식",
+    "number": 1,
+    "type": "일반",
+    "category": "투구",
+    "cooldown": 22.884,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdba",
+    "name": "가디언 투구",
+    "number": 2,
+    "type": "레어",
+    "category": "투구",
+    "cooldown": 25.602,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdbb",
+    "name": "강령술사 모자",
+    "number": 3,
+    "type": "레어",
+    "category": "투구",
+    "cooldown": 27.273,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdbc",
+    "name": "고스트쉐도우 투구",
+    "number": 4,
+    "type": "레어",
+    "category": "투구",
+    "cooldown": 25.602,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdbd",
+    "name": "구미호 요귀",
+    "number": 5,
+    "type": "레어",
+    "category": "투구",
+    "cooldown": 26.375,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdbe",
+    "name": "대모달 투구",
+    "number": 6,
+    "type": "레어",
+    "category": "투구",
+    "cooldown": 34.672,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdbf",
+    "name": "데몬로드 투구",
+    "number": 7,
+    "type": "유니크",
+    "category": "투구",
+    "cooldown": 30.958,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdc0",
+    "name": "드루이드 서클릿",
+    "number": 8,
+    "type": "레어",
+    "category": "투구",
+    "cooldown": 34.672,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdc1",
+    "name": "레이져 고글",
+    "number": 9,
+    "type": "레어",
+    "category": "투구",
+    "cooldown": 14.655,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdc2",
+    "name": "릴리의 서클릿",
+    "number": 10,
+    "type": "레어",
+    "category": "투구",
+    "cooldown": 22.366,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdc3",
+    "name": "마이너 방독면",
+    "number": 11,
+    "type": "일반",
+    "category": "투구",
+    "cooldown": 16.388,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdc4",
+    "name": "매드보이 마스크",
+    "number": 12,
+    "type": "레어",
+    "category": "투구",
+    "cooldown": 26.455,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdc5",
+    "name": "메딕 모자",
+    "number": 13,
+    "type": "일반",
+    "category": "투구",
+    "cooldown": 34.672,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdc6",
+    "name": "바터니스트 마스크",
+    "number": 14,
+    "type": "레어",
+    "category": "투구",
+    "cooldown": 25.613,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdc7",
+    "name": "발키리 투구",
+    "number": 15,
+    "type": "일반",
+    "category": "투구",
+    "cooldown": 28.309,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdc8",
+    "name": "배가본드 마스크",
+    "number": 16,
+    "type": "일반",
+    "category": "투구",
+    "cooldown": 25.613,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdc9",
+    "name": "뱀파이어 써클릿",
+    "number": 17,
+    "type": "레어",
+    "category": "투구",
+    "cooldown": 28.309,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdca",
+    "name": "사이언티스트 고글",
+    "number": 18,
+    "type": "레어",
+    "category": "투구",
+    "cooldown": 25.602,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdcb",
+    "name": "사제 모자",
+    "number": 19,
+    "type": "레어",
+    "category": "투구",
+    "cooldown": 22.584,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdcc",
+    "name": "살라딘 터번",
+    "number": 20,
+    "type": "일반",
+    "category": "투구",
+    "cooldown": 21.903,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdcd",
+    "name": "스카하크 서클릿",
+    "number": 21,
+    "type": "레어",
+    "category": "투구",
+    "cooldown": 26.56,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdce",
+    "name": "스트레인져의 서클릿",
+    "number": 22,
+    "type": "유니크",
+    "category": "투구",
+    "cooldown": 26.56,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdcf",
+    "name": "신농 뿔",
+    "number": 23,
+    "type": "레어",
+    "category": "투구",
+    "cooldown": 28.309,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdd0",
+    "name": "실랏 두건",
+    "number": 24,
+    "type": "일반",
+    "category": "투구",
+    "cooldown": 23.89,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdd1",
+    "name": "엑자일 투구",
+    "number": 25,
+    "type": "유니크",
+    "category": "투구",
+    "cooldown": 21.875,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdd2",
+    "name": "연금술사 서클릿",
+    "number": 26,
+    "type": "레어",
+    "category": "투구",
+    "cooldown": 22.916,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdd3",
+    "name": "요술사 모자",
+    "number": 27,
+    "type": "레어",
+    "category": "투구",
+    "cooldown": 23.878,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdd4",
+    "name": "전우치 갓",
+    "number": 28,
+    "type": "일반",
+    "category": "투구",
+    "cooldown": 28.309,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdd5",
+    "name": "조자룡 투구",
+    "number": 29,
+    "type": "일반",
+    "category": "투구",
+    "cooldown": 22.916,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdd6",
+    "name": "칼리 머리띠",
+    "number": 30,
+    "type": "프리미엄",
+    "category": "투구",
+    "cooldown": 26.56,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdd7",
+    "name": "타락강시도사 모자",
+    "number": 31,
+    "type": "레어",
+    "category": "투구",
+    "cooldown": 29.24,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdd8",
+    "name": "트랜스스카우터",
+    "number": 32,
+    "type": "레어",
+    "category": "투구",
+    "cooldown": 16.388,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdd9",
+    "name": "티메가테 터번",
+    "number": 33,
+    "type": "일반",
+    "category": "투구",
+    "cooldown": 27.273,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdda",
+    "name": "파계승 징표",
+    "number": 34,
+    "type": "레어",
+    "category": "투구",
+    "cooldown": 14.655,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cddb",
+    "name": "패트리어트 투구",
+    "number": 35,
+    "type": "일반",
+    "category": "투구",
+    "cooldown": 23.878,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cddc",
+    "name": "페르소나 모자",
+    "number": 36,
+    "type": "레어",
+    "category": "투구",
+    "cooldown": 28.309,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cddd",
+    "name": "헤라클레스 투구",
+    "number": 37,
+    "type": "유니크",
+    "category": "투구",
+    "cooldown": 21.988,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdde",
+    "name": "호크아이 복면",
+    "number": 38,
+    "type": "일반",
+    "category": "투구",
+    "cooldown": 12.558,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cddf",
+    "name": "후크 모자",
+    "number": 39,
+    "type": "일반",
+    "category": "투구",
+    "cooldown": 33.373,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cde0",
+    "name": "VR 헤드셋",
+    "number": 40,
+    "type": "레어",
+    "category": "투구",
+    "cooldown": 22.916,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cde1",
+    "name": "강림도령 장신구",
+    "number": 1,
+    "type": "레어",
+    "category": "망토",
+    "cooldown": 30.958,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cde2",
+    "name": "격투가 장신구",
+    "number": 2,
+    "type": "레어",
+    "category": "망토",
+    "cooldown": 23.878,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cde3",
+    "name": "고스트쉐도우 망토",
+    "number": 3,
+    "type": "레어",
+    "category": "망토",
+    "cooldown": 26.56,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cde4",
+    "name": "권왕 무공서",
+    "number": 4,
+    "type": "레어",
+    "category": "망토",
+    "cooldown": 19.19,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cde5",
+    "name": "기사왕의 망토",
+    "number": 5,
+    "type": "일반",
+    "category": "망토",
+    "cooldown": 14.655,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cde6",
+    "name": "대모달 맥검",
+    "number": 6,
+    "type": "레어",
+    "category": "망토",
+    "cooldown": 24.376,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cde7",
+    "name": "데미갓 망토",
+    "number": 7,
+    "type": "레어",
+    "category": "망토",
+    "cooldown": 25.645,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cde8",
+    "name": "도술사 망토",
+    "number": 8,
+    "type": "레어",
+    "category": "망토",
+    "cooldown": 25.602,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cde9",
+    "name": "드루이드 망토",
+    "number": 9,
+    "type": "레어",
+    "category": "망토",
+    "cooldown": 25.602,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdea",
+    "name": "매드블래스터 망토",
+    "number": 10,
+    "type": "레어",
+    "category": "망토",
+    "cooldown": 20.749,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdeb",
+    "name": "메가에이전트 망토",
+    "number": 11,
+    "type": "레어",
+    "category": "망토",
+    "cooldown": 23.977,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdec",
+    "name": "메딕 부스터",
+    "number": 12,
+    "type": "일반",
+    "category": "망토",
+    "cooldown": 27.768,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cded",
+    "name": "메피스토 날개",
+    "number": 13,
+    "type": "유니크",
+    "category": "망토",
+    "cooldown": 31.005,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdee",
+    "name": "미드나잇 낫",
+    "number": 14,
+    "type": "유니크",
+    "category": "망토",
+    "cooldown": 28.935,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdef",
+    "name": "버스터 망토",
+    "number": 15,
+    "type": "레어",
+    "category": "망토",
+    "cooldown": 16.121,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdf0",
+    "name": "벅스 윙",
+    "number": 16,
+    "type": "레어",
+    "category": "망토",
+    "cooldown": 29.278,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdf1",
+    "name": "복서 트로피",
+    "number": 17,
+    "type": "일반",
+    "category": "망토",
+    "cooldown": 29.278,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdf2",
+    "name": "사제 장신구",
+    "number": 18,
+    "type": "레어",
+    "category": "망토",
+    "cooldown": 28.201,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdf3",
+    "name": "쉐도우어쌔신 독병",
+    "number": 19,
+    "type": "일반",
+    "category": "망토",
+    "cooldown": 23.878,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdf4",
+    "name": "스카디 오브",
+    "number": 20,
+    "type": "레어",
+    "category": "망토",
+    "cooldown": 29.73,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdf5",
+    "name": "스파이럴 장신구",
+    "number": 21,
+    "type": "레어",
+    "category": "망토",
+    "cooldown": 16.388,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdf6",
+    "name": "슬래셔 장신구",
+    "number": 22,
+    "type": "레어",
+    "category": "망토",
+    "cooldown": 28.309,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdf7",
+    "name": "아웃복서 악력기",
+    "number": 23,
+    "type": "일반",
+    "category": "망토",
+    "cooldown": 21.875,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdf8",
+    "name": "아이스맨 망토",
+    "number": 24,
+    "type": "레어",
+    "category": "망토",
+    "cooldown": 29.278,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdf9",
+    "name": "악령도둑 배낭",
+    "number": 25,
+    "type": "일반",
+    "category": "망토",
+    "cooldown": 23.878,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdfa",
+    "name": "에너지연구연 에너지캡슐",
+    "number": 26,
+    "type": "일반",
+    "category": "망토",
+    "cooldown": 34.672,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdfb",
+    "name": "엑자일 망토",
+    "number": 27,
+    "type": "유니크",
+    "category": "망토",
+    "cooldown": 26.152,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdfc",
+    "name": "일섬검",
+    "number": 28,
+    "type": "레어",
+    "category": "망토",
+    "cooldown": 23.878,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdfd",
+    "name": "일지매 연막탄",
+    "number": 29,
+    "type": "일반",
+    "category": "망토",
+    "cooldown": 25.613,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdfe",
+    "name": "임페리얼 나이트 망토",
+    "number": 30,
+    "type": "레어",
+    "category": "망토",
+    "cooldown": 22.916,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595cdff",
+    "name": "제우스 날개",
+    "number": 31,
+    "type": "레어",
+    "category": "망토",
+    "cooldown": 27.273,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595ce00",
+    "name": "조자룡 망토",
+    "number": 32,
+    "type": "일반",
+    "category": "망토",
+    "cooldown": 14.655,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595ce01",
+    "name": "청룡 비급",
+    "number": 33,
+    "type": "일반",
+    "category": "망토",
+    "cooldown": 53.544,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595ce02",
+    "name": "크로우의 레이븐",
+    "number": 34,
+    "type": "일반",
+    "category": "망토",
+    "cooldown": 29.278,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595ce03",
+    "name": "크루세이더 망토",
+    "number": 35,
+    "type": "레어",
+    "category": "망토",
+    "cooldown": 20.749,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595ce04",
+    "name": "태권 현판",
+    "number": 36,
+    "type": "일반",
+    "category": "망토",
+    "cooldown": 36.764,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595ce05",
+    "name": "투우사 망토",
+    "number": 37,
+    "type": "레어",
+    "category": "망토",
+    "cooldown": 23.89,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595ce06",
+    "name": "티르 망토",
+    "number": 38,
+    "type": "유니크",
+    "category": "망토",
+    "cooldown": 16.121,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595ce07",
+    "name": "티메가테 장신구",
+    "number": 39,
+    "type": "일반",
+    "category": "망토",
+    "cooldown": 12.558,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595ce08",
+    "name": "파괴자 장신구",
+    "number": 40,
+    "type": "레어",
+    "category": "망토",
+    "cooldown": 28.309,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595ce09",
+    "name": "파라오 망토",
+    "number": 41,
+    "type": "레어",
+    "category": "망토",
+    "cooldown": 26.044,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595ce0a",
+    "name": "풍신 망토",
+    "number": 42,
+    "type": "레어",
+    "category": "망토",
+    "cooldown": 22.916,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595ce0b",
+    "name": "피터팬 팅커벨",
+    "number": 43,
+    "type": "일반",
+    "category": "망토",
+    "cooldown": 27.228,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595ce0c",
+    "name": "현무 망토",
+    "number": 44,
+    "type": "유니크",
+    "category": "망토",
+    "cooldown": 23.878,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6822c3996c8ed9193595ce0d",
+    "name": "T70 메가 낚시대",
+    "number": 45,
+    "type": "레어",
+    "category": "망토",
+    "cooldown": 21.875,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "682825d3d4ffcbc10168200d",
+    "name": "스트레인져 무기",
+    "number": 43,
+    "type": "유니크",
+    "category": "무기",
+    "cooldown": 26.621,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "682b4208b4aa98365d4b14dd",
+    "name": "악마 날개",
+    "number": 46,
+    "type": "레어",
+    "category": "망토",
+    "cooldown": 20.284,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "682b5b13c6b81fb8927485a8",
+    "name": "글리키에스 결정",
+    "number": 47,
+    "type": "유니크",
+    "category": "망토",
+    "cooldown": 25.613,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "682b60f2c6b81fb8927485cd",
+    "name": "사이버 서브 머신건",
+    "number": 48,
+    "type": "레어",
+    "category": "망토",
+    "cooldown": 25.602,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "682b6297c6b81fb8927485d3",
+    "name": "오멘의 갑옷",
+    "number": 41,
+    "type": "유니크",
+    "category": "갑옷",
+    "cooldown": 22.642,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "682d450a6839602141273b63",
+    "name": "워프 장갑",
+    "number": 44,
+    "type": "일반",
+    "category": "무기",
+    "cooldown": 25.829,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "682d45656839602141273b68",
+    "name": "풍신 바람",
+    "number": 45,
+    "type": "레어",
+    "category": "무기",
+    "cooldown": 26.455,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "682d459d6839602141273b6d",
+    "name": "화학병 화학총",
+    "number": 46,
+    "type": "레어",
+    "category": "무기",
+    "cooldown": 28.345,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  },
+  {
+    "_id": "6841b1030f35b02466a1e5a8",
+    "name": "체인지온 망토",
+    "number": 49,
+    "type": "유니크",
+    "category": "망토",
+    "cooldown": 26.406,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-09T08:38:57.218Z"
+    }
+  }
+]
