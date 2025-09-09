@@ -114,11 +114,13 @@ mongoimport --uri "your_mongodb_uri" --db ls-growsim --collection equipments --f
 
 **Frontend:**
 ```bash
+cd frontend
 npm run build
 ```
 
 **Backend:**
 ```bash
+cd backend
 node index.js
 ```
 
