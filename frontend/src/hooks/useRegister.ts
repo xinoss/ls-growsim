@@ -7,12 +7,12 @@ export const useRegister = () => {
   const [error, setError] = useState('');
   const [message, setMessage] = useState('');
 
-  const register = async (username: string) => {
+  const register = async (username: string, password: string) => {
     setLoading(true);
     setError('');
     setMessage('');
     try {
-      const res = await registerRequest(username);
+      const res = await registerRequest(username, password);
       setMessage(res.data.message);
     } catch (err: any) {
       setError(err?.response?.data?.message || 'Registration failed');
