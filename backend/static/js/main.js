@@ -59,7 +59,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const stat = button.getAttribute('data-stat');
   const delta = parseInt(button.getAttribute('data-delta'), 10);
   button.onclick = null;
-  onLongClick(button, 100, () => {
+  onLongClick(button, 800, 100, () => {
     handleStatAdjust(stat, delta, costData);
   });
 });
