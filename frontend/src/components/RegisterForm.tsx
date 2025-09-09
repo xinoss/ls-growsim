@@ -3,11 +3,12 @@ import { useRegister } from '../hooks/useRegister';
 
 const RegisterForm = () => {
   const [username, setUsername] = useState('');
+  const [password, setPassword] = useState('');
   const { register, message, error, loading } = useRegister();
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
-    register(username);
+    register(username, password);
   };
 
   return (
@@ -23,6 +24,15 @@ const RegisterForm = () => {
         placeholder="사용자 입력"
         value={username}
         onChange={(e) => setUsername(e.target.value)}
+        required
+      />
+
+      <input
+        type="password"
+        className="w-full p-2 border border-gray-300 rounded mb-4"
+        placeholder="비밀번호 입력"
+        value={password}
+        onChange={(e) => setPassword(e.target.value)}
         required
       />
 
