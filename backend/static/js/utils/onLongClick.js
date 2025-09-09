@@ -1,10 +1,16 @@
-export function onLongClick($target, duration, callback) {
+export function onLongClick($target, holdTime, duration, callback) {
+  let timeoutId;
   let intervalId;
+
   $target.onmousedown = () => {
-    callback();
-    intervalId = setInterval(callback, duration);
+    timeoutId = setTimeout(() => {
+      callback();
+      intervalId = setInterval(callback, duration);
+    }, holdTime);
   };
+
   $target.onmouseup = $target.onmouseleave = () => {
+    clearTimeout(timeoutId);
     clearInterval(intervalId);
   };
 }
