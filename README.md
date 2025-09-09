@@ -73,15 +73,15 @@ cd ls-growsim
 
 ### 2. Install dependencies
 
-**Backend:**
-```bash
-cd backend
-npm install
-```
-
 **Frontend:**
 ```bash
 cd frontend
+npm install
+```
+
+**Backend:**
+```bash
+cd backend
 npm install
 ```
 
@@ -112,20 +112,14 @@ mongoimport --uri "your_mongodb_uri" --db ls-growsim --collection equipments --f
 
 ### 5. Run the app
 
-**Backend:**
-```bash
-npm run dev
-# or
-node index.js
-# or
-node .
-```
-
 **Frontend:**
 ```bash
-npm run dev
-# or
 npm run build
+```
+
+**Backend:**
+```bash
+node index.js
 ```
 
 ---
