@@ -4,8 +4,8 @@ export const loginRequest = (username: string, password: string) => {
   return API.post('/auth/login', { username, password });
 };
 
-export const registerRequest = (username: string) => {
-  return API.post('/auth/register', { username });
+export const registerRequest = (username: string, password: string) => {
+  return API.post('/auth/register', { username, password });
 };
 
 export const refreshRequest = () => {
