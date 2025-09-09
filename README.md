@@ -27,7 +27,7 @@ A web-based tool for simulating character and equipment setups in ***KLS** Lost 
 ## 📂 Project Structure
 
 ```plaintext
-ls-growism/
+ls-growsim/
 ├─ backend/                # Backend (Node.js + Express + MongoDB)
 │  ├─ src/
 │  │  ├─ controllers/      # Request handlers
@@ -62,8 +62,8 @@ ls-growism/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/xinoss/ls-growism.git
-cd ls-growism
+git clone https://github.com/xinoss/ls-growsim.git
+cd ls-growsim
 ```
 
 ### 2. Install dependencies
@@ -101,8 +101,8 @@ cp .env.example .env
 
 ```bash
 cd database
-mongoimport --uri "your_mongodb_uri" --db ls-growism --collection users --file users.json --jsonArray
-mongoimport --uri "your_mongodb_uri" --db ls-growism --collection equipments --file equipments.json --jsonArray
+mongoimport --uri "your_mongodb_uri" --db ls-growsim --collection users --file users.json --jsonArray
+mongoimport --uri "your_mongodb_uri" --db ls-growsim --collection equipments --file equipments.json --jsonArray
 ```
 
 ### 5. Run the app
