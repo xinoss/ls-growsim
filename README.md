@@ -48,7 +48,7 @@ ls-growism/
 │  ├─ package.json
 │  └─ ...
 │
-├─ database/               # Database (MongoDB Jsons)
+├─ database/               # Database (MongoDB Data)
 │  ├─ users.json           # users json
 │  ├─ equipments.json      # equipments json
 │
