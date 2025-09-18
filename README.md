@@ -87,7 +87,7 @@ npm install
 
 ### 3. Setup environment variables
 
-- **configure your MongoDB URI, server port, etc.** 
+- **configure your MongoDB URI, Server port, etc.** 
 
 **Window:**
 ```bash
